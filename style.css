@@ -1,9 +1,16 @@
-* {
+body {
     margin: 0;
     padding: 0;
+    font-family: ;
+    background-color: rgb(81, 255, 0);
+    color: aquamarine;
 }
 .cabeçalho{background-color: aqua;
 
 color: blue;
 width: 20px;
-}
+text-align: center;
+.cabeçalho h1 }
+font-size: ;
+color: antiquewhite
+margin: 5%;
